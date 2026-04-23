@@ -1,19 +1,79 @@
+html {
+    margin: 0;
+     padding: 0;
+     }
 body {
-  margin: 0;
-  font-family: "Germania One", system-ui;
-  font-weight: 400;
-  font-style: normal;
-  color: ##13214A;
- <style>
-#grad1 {
-  height: 100px;
-  background-color: #0d0513; /* For browsers that do not support gradients */
-  background-image: linear-gradient(-135deg, #0d0515, #280f3a, #501e74, #993add, #993add, #993add, #712ba4, #501e74, #441a63, #180922);}
-<style>
-};
-  background-size: 400% 400%;
-  
+ font: 90% Germania One, sans-serif;
+ line-height: 1.88889;
+       color: #cafce8;
+  background: linear-gradient(-135 deg, #3c5e97, #65a0ff, #3c5e97);
+      margin: 0; 
+    height: 200%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+p { 
+  font-family: Germania One; font-size: 28px; 
+   font-style: italic; 
+    font-variant: normal; 
+   font-weight: 700; 
+      line-height: 40px;
+       text-align: center;
+       color: #cafce8;
+   }
+h1 {
+ font-family: Germania One; font-size: 48px; 
+  font-style: bold; 
+     line-height: 40px;
+      text-align: center;
+      color: #7cc1a3;
+  margin-top: 0;
+       }
+       
+h2 {
+      font-family: Germania One; font-size: 36px; 
+       font-style: italic; 
+        font-variant: normal; 
+       font-weight: 700; 
+  line-height: 40px;
+   text-align: center;
+   color: #7cc1a3;
+   }
+h3 { 
+      font-family: Germania One; font-size: 24px; 
+       font-style: italic; 
+        font-variant: normal; 
+       font-weight: 700; 
+  line-height: 40px;
+   text-align: center;
+   color: #7cc1a3;
+ }
+
+h4 { 
+      font-family: Germania One; font-size: 18px; 
+       font-style: italic; 
+        font-variant: normal; 
+       font-weight: 700; 
+  line-height: 40px;
+   text-align: center;
+   color: #7cc1a3;
+ }
+/* unvisited link */
+a:link {
+  color: deeppink;
 }
 
-  100% { transform: scale(2.5); opacity: 0; }
+/* visited link */
+a:visited {
+  color: cyan;
 }
+
+/* mouse over link */
+a:hover {
+  color: gold;
+}
+
+/* selected link */
+a:active {
+  color: blue; 
+  
