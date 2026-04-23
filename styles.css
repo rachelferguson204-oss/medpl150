@@ -3,10 +3,10 @@ html {
      padding: 0;
      }
 body {
-    background: #f7edff;
+    background: #3c5e97;
 	background image: url('styletype.jpg')
-	background: linear-gradient(0deg, rgba(247, 237, 255, 1) 0%, rgba(234, 209, 255, 1) 50%, rgba(208, 191, 255, 1) 100%);
-	font-family: 80% Georgia, serif;
+	background: linear-gradient(-135deg, #3c5e97, #65a0ff, #3c5e97;
+	font-family: 80% Germania One;
 	line-height: 1.88889;
 	color: #000000; 
 	margin: 0; 
