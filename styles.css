@@ -3,21 +3,23 @@ html {
      padding: 0;
      }
 body {
- font: 90% Germania One, sans-serif;
- line-height: 1.88889;
-       color: #cafce8;
-  background: linear-gradient(-135 deg, #3c5e97, #65a0ff, #3c5e97);
-      margin: 0; 
-    height: 200%;
-    background-repeat: no-repeat;
+    background: #f7edff;
+	background: linear-gradient(0deg, rgba(247, 237, 255, 1) 0%, rgba(234, 209, 255, 1) 50%, rgba(208, 191, 255, 1) 100%);
+	font-family: 80% Georgia, serif;
+	line-height: 1.88889;
+	color: #000000; 
+	margin: 0; 
+	padding: 0;
+	background-repeat: no-repeat;
     background-attachment: fixed;
+ 
   }
 p { 
   font-family: Germania One; font-size: 28px; 
    font-style: italic; 
     font-variant: normal; 
    font-weight: 700; 
-      line-height: 40px;
+      line-height: 40px
        text-align: center;
        color: #cafce8;
    }
