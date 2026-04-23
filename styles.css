@@ -4,6 +4,7 @@ html {
      }
 body {
     background: #f7edff;
+	background image: url('styletype.jpg')
 	background: linear-gradient(0deg, rgba(247, 237, 255, 1) 0%, rgba(234, 209, 255, 1) 50%, rgba(208, 191, 255, 1) 100%);
 	font-family: 80% Georgia, serif;
 	line-height: 1.88889;
