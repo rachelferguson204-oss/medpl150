@@ -7,8 +7,13 @@ body {
   /* set background height to fill the viewpoint */
   color: #501e74, #993add;
   /* degree, color 1, color 2,*/
-  background: linear-gradient(-135deg, #501e74, #993add, #993add);
+  background: #grad2 {
+  height: 100 px;
+  background-color: #0d0513; /* For browsers that do not support gradients */
+  background-image: linear gradient (-135 deg, #0d0515, #280f3a, #501e74, #993add, #993add, #993add, #712ba4, #501e74, #441a63, #180922);
+};
   background-size: 400% 400%;
+  
 }
 
   100% { transform: scale(2.5); opacity: 0; }
