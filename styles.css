@@ -1,7 +1,11 @@
 body {
   margin: 0;
+  font-family: "Germania One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  color: ##13214A;
   /* set background height to fill the viewpoint */
-  color: ##1F2437;
+  color: #501e74, #993add;
   /* degree, color 1, color 2,*/
   background: linear-gradient(-135deg, #501e74, #993add, #993add);
   background-size: 400% 400%;
