@@ -4,9 +4,9 @@ html {
      }
 body {
     background: #3c5e97;
-	background image: url('styletype.jpg')
-	background: linear-gradient(-135deg, #3c5e97, #65a0ff, #3c5e97;
-	font-family: 80% Germania One;
+	background-image: url('styletype.jpg')
+	background: linear-gradient(-135deg, #3c5e97, #65a0ff, #3c5e97);
+	font-family:'Germania One', sertif;
 	line-height: 1.88889;
 	color: #000000; 
 	margin: 0; 
