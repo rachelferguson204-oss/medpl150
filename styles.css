@@ -2,7 +2,12 @@ html {
     margin: 0;
      padding: 0;
      }
+	/* styles.css */
 body {
+  /* Set a height to ensure the background covers the screen */
+  min-height: 100vh;
+  margin: 0;
+  /* 45deg angle followed by your chosen colors */
     background: #3c5e97;
 	background-image: url('styletype.jpg')
 	background: linear-gradient(45deg, to upper right, #3c5e97, #65a0ff, #3c5e97);
