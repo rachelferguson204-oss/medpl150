@@ -11,7 +11,7 @@ body {
     background: #3c5e97;
 	background-image: url('styletype.jpg')
 	background: linear-gradient(45deg, to upper right, #3c5e97, #65a0ff, #3c5e97);
-	font-family:'Germania One', sertif;
+	font-family:'Germania One', sans-sertif;
 	line-height: 1.88889;
 	color: #000000; 
 	margin: 0; 
