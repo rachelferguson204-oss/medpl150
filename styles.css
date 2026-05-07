@@ -8,9 +8,9 @@ body {
   min-height: 100vh;
   margin: 0;
   /* 45deg angle followed by your chosen colors */
-    background: #3c5e97;
+    background: #370C59;
 	background-image: url('styletype.jpg')
-	background: linear-gradient(45deg, to upper right, #3c5e97, #65a0ff, #3c5e97);
+	background: linear-gradient(45deg, from medium purple to periwinkle blue, ##370C59, #8974CF);
 	font-family:'Germania One', sans-sertif;
 	line-height: 1.88889;
 	color: #000000; 
