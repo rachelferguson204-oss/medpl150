@@ -1,40 +1,34 @@
 html {
+   html, body {
     margin: 0;
-     padding: 0;
-     }
-	/* styles.css */
+    padding: 0;
+    min-height: 100vh; /* Covers full height */
+}
+
 body {
-  /* Set a height to ensure the background covers the screen */
-  min-height: 100vh;
-  margin: 0;
-  /* 45deg angle followed by your chosen colors */
-    background: #370C59;
-	background-image: url('styletype.jpg')
-	background: linear-gradient(45deg, from medium purple to periwinkle blue, ##370C59, #8974CF);
-	font-family:'Germania One', sans-sertif;
-	line-height: 1.88889;
-	color: #000000; 
-	margin: 0; 
-	padding: 0;
+    background: linear-gradient(45deg, #290530 0%, #8C95FA 100%);
+    background-attachment: fixed; /* Optional: prevents gradient scroll */
+    line-height: 1.5; /* Standard readable line height */
 	background-repeat: no-repeat;
     background-attachment: fixed;
+	font-family: Germania One, sans-serif;
  
   }
 p { 
-  font-family: Germania One; font-size: 28px; 
-   font-style: italic; 
+  font-family: Germania One; font-size: 26px; 
+   font-style: regular; 
     font-variant: normal; 
    font-weight: 700; 
       line-height: 40px
        text-align: center;
-       color: #cafce8;
+       color: #1A188C;
    }
 h1 {
  font-family: Germania One; font-size: 48px; 
   font-style: bold; 
      line-height: 40px;
       text-align: center;
-      color: #7cc1a3;
+      color: #1A188C;
   margin-top: 0;
        }
        
@@ -45,7 +39,7 @@ h2 {
        font-weight: 700; 
   line-height: 40px;
    text-align: center;
-   color: #7cc1a3;
+   color: #1A188C;
    }
 h3 { 
       font-family: Germania One; font-size: 24px; 
@@ -54,7 +48,7 @@ h3 {
        font-weight: 700; 
   line-height: 40px;
    text-align: center;
-   color: #7cc1a3;
+   color: #1A188C;
  }
 
 h4 { 
@@ -64,7 +58,7 @@ h4 {
        font-weight: 700; 
   line-height: 40px;
    text-align: center;
-   color: #7cc1a3;
+   color: #1A188C;
  }
 /* unvisited link */
 a:link {
