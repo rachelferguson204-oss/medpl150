@@ -16,11 +16,11 @@ body {
     line-height: 1.5; /* Standard readable line height */
 	background-repeat: no-repeat;
     background-attachment: fixed;
-	font-family: Carrois Gothic SC, sans-serif;
+	font-family: 'Carrois Gothic SC', sans-serif;
  
   }
 p { 
-  font-family: Carrois Gothic SC; font-size: 26px; 
+  font-family: 'Carrois Gothic SC'; font-size: 26px; 
    font-style: regular; 
     font-variant: normal; 
    font-weight: 700; 
@@ -29,7 +29,7 @@ p {
        color: #B6CFFA;
    }
 h1 {
- font-family: Carrois Gothic SC; font-size: 48px; 
+ font-family: 'Carrois Gothic SC'; font-size: 48px; 
   font-style: bold; 
      line-height: 40px;
       text-align: center;
@@ -38,7 +38,7 @@ h1 {
        }
        
 h2 {
-      font-family: Carrois Gothic SC; font-size: 36px; 
+      font-family: 'Carrois Gothic SC'; font-size: 36px; 
        font-style: italic; 
         font-variant: normal; 
        font-weight: 700; 
@@ -47,7 +47,7 @@ h2 {
    color: #B6CFFA;
    }
 h3 { 
-      font-family: Carrois Gothic SC; font-size: 24px; 
+      font-family: 'Carrois Gothic SC'; font-size: 24px; 
        font-style: italic; 
         font-variant: normal; 
        font-weight: 700; 
@@ -57,7 +57,7 @@ h3 {
  }
 
 h4 { 
-      font-family: Carrois Gothic SC; font-size: 18px; 
+      font-family: 'Carrois Gothic SC'; font-size: 18px; 
        font-style: italic; 
         font-variant: normal; 
        font-weight: 700; 
