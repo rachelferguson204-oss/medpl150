@@ -1,0 +1,76 @@
+html {
+   html, body {
+  background: radial-gradient(circle,  #97BDF7, #3F649E);
+  min-height: 100vh; /* Ensure the background covers the full screen */
+  margin: 0;
+    background-attachment: fixed; /* Optional: prevents gradient scroll */
+    line-height: 1.5; /* Standard readable line height */
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+	font-family: 'Carrois Gothic SC', sans-serif;
+ 
+  }
+p { 
+  font-family: 'Carrois Gothic SC'; font-size: 26px; 
+   font-style: regular; 
+    font-variant: normal; 
+   font-weight: 700; 
+      line-height: 40px
+       text-align: center;
+       color: #796FFC;
+   }
+h1 {
+ font-family: 'Carrois Gothic SC'; font-size: 48px; 
+  font-style: bold; 
+     line-height: 40px;
+      text-align: center;
+      color: #9C95F5;
+  margin-top: 0;
+       }
+       
+h2 {
+      font-family: 'Carrois Gothic SC'; font-size: 36px; 
+       font-style: italic; 
+        font-variant: normal; 
+       font-weight: 700; 
+  line-height: 40px;
+   text-align: center;
+   color: #9C95F5;
+   }
+h3 { 
+      font-family: 'Carrois Gothic SC'; font-size: 24px; 
+       font-style: italic; 
+        font-variant: normal; 
+       font-weight: 700; 
+  line-height: 40px;
+   text-align: center;
+   color: #9C95F5;
+ }
+
+h4 { 
+      font-family: 'Carrois Gothic SC'; font-size: 18px; 
+       font-style: italic; 
+        font-variant: normal; 
+       font-weight: 700; 
+  line-height: 40px;
+   text-align: center;
+   color: #9C95F5;
+ }
+/* unvisited link */
+a:link {
+  color: #C4BFFF;
+}
+
+/* visited link */
+a:visited {
+  color: #94ADF7;
+}
+
+/* mouse over link */
+a:hover {
+  color: gold;
+}
+
+/* selected link */
+a:active {
+  color: #9C95F5; 
