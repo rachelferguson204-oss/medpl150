@@ -2,16 +2,12 @@ html {
    html, body {
     margin: 0;
     padding: 0;
-    min-height: 100vh; /* Covers full height */
+    min-height: 100vh; /* Covers full viewpoint */
 }
 
 body {
-   background: radial-gradient(circle at center, 
-    #231c7c 0%,    /* Color 1 at the center */
-    #1d1765 25%,   /* Color 2 */
-    #171351 50%,   /* Color 3 */
-    #110e3c 75%,   /* Color 4 */
-    #0d0b2e 100%   /* Color 5 at the outer edge */
+  /* Basic radial gradient: starts red at the center and fades to blue */
+  background-image: radial-gradient(circle,  #231c7c, #0d0b2e);
     background-attachment: fixed; /* Optional: prevents gradient scroll */
     line-height: 1.5; /* Standard readable line height */
 	background-repeat: no-repeat;
