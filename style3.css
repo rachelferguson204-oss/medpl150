@@ -1,12 +1,12 @@
 html {
-  /* style.css */
+   html, body {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh; /* Covers full height */
+}
+
 body {
-  /* Basic two-color radial gradient */
-  background-image: radial-gradient(circle, #97BDF7, #3F649E);
-  
-  /* Ensure the background covers the full viewport height */
-  min-height: 100vh;
-  margin: 0;
+    background: linear-gradient(45deg,   #3F649E 0%, #97BDF7 100%);
     background-attachment: fixed; /* Optional: prevents gradient scroll */
     line-height: 1.5; /* Standard readable line height */
 	background-repeat: no-repeat;
