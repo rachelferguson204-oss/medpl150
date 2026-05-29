@@ -1,13 +1,12 @@
-html {
-   html, body {
-    /* Basic circle gradient from center: #8EB9FC to #35588F */
-    background-image: radial-gradient(circle, #8EB9FC, #35588F);
-    
-    /* Ensure the background covers the full screen height */
-    min-height: 100vh;
-    margin: 0;
+/* style.css */
+body {
+  /* Use the radial-gradient function with the circle keyword and two colors */
+  background: radial-gradient(circle, #8EB9FC, #8EB9FC);
+  
+  /* Ensure the background covers the entire viewport */
+  margin: 0;
+  height: 100vh;
 }
-
 p { 
   font-family: 'Carrois Gothic SC'; font-size: 26px; 
    font-style: regular; 
