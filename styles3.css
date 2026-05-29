@@ -1,6 +1,6 @@
 html {
    html, body {
-  background: radial-gradient(circle,  #8EB9FC, #35588F);
+  background: radial-gradient(circle,  #8EB9FC, #2D4B7A);
   min-height: 100vh; /* Ensure the background covers the full screen */
   margin: 0;
     background-attachment: fixed; /* Optional: prevents gradient scroll */
