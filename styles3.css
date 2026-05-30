@@ -23,10 +23,10 @@ p {
 h1 {
  font-family: 'amador'; font-size: 89px; 
   font-style: bold; 
-     line-height: 109px;
+     line-height: 95px;
       text-align: center;
       color: #373280;
-  margin-top: 0;
+  margin-top: 40px;
        }
        
 h2 {
