@@ -1,9 +1,10 @@
 html {
    html, body {
-  background: radial-gradient(circle,  #8EB9FC, #1D4B73;
-  min-height: 100vh; /* Ensure the background covers the full screen */
-  margin: 0;
-    background-attachment: fixed; /* Optional: prevents gradient scroll */
+/* Syntax: radial-gradient(shape at position, start-color, end-color) */
+background: radial-gradient(circle at center, #8EB9FC, #1D4B73);
+margin: 0;
+height: 100vh;
+	background-attachment: fixed; /* Optional: prevents gradient scroll */
     line-height: 1.5; /* Standard readable line height */
 	background-repeat: no-repeat;
     background-attachment: fixed;
