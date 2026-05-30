@@ -1,6 +1,6 @@
 html {
    html, body {
-  background: radial-gradient(circle,  #8EB9FC, ##1D4B73);
+  background: radial-gradient(circle,  #8EB9FC 0%, ##1D4B73 100%);
   min-height: 100vh; /* Ensure the background covers the full screen */
   margin: 0;
     background-attachment: fixed; /* Optional: prevents gradient scroll */
@@ -22,7 +22,7 @@ p {
 h1 {
  font-family: 'amador'; font-size: 89px; 
   font-style: bold; 
-     line-height: 105px;
+     line-height: 120px;
       text-align: center;
       color: #373280;
   margin-top: 0;
