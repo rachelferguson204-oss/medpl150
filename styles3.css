@@ -1,7 +1,7 @@
 html {
    html, body {
 /* Syntax: radial-gradient(shape at position, start-color, end-color) */
-background: radial-gradient(circle at center, #8EB9FC, #1D4B73);
+background: radial-gradient(circle at center, #061159, #040B3D);
 margin: 0;
 height: 100vh;
 	background-attachment: fixed; /* Optional: prevents gradient scroll */
@@ -18,14 +18,14 @@ p {
    font-weight: 700; 
       line-height: 40px
        text-align: center;
-       color: #1C1947;
+       color: #3269AD;
    }
 h1 {
  font-family: 'amador'; font-size: 89px; 
   font-style: bold; 
      line-height: 95px;
       text-align: center;
-      color: #373280;
+      color: #5061D4;
   margin-top: 70px; /* Moves the header down by 70 pixels */
        }
        
@@ -36,7 +36,7 @@ h2 {
        font-weight: 700; 
   line-height: 40px;
    text-align: center;
-   color: #9C95F5;
+   color: #5280BA;
    }
 h3 { 
       font-family: 'amador'; font-size: 24px; 
@@ -45,7 +45,7 @@ h3 {
        font-weight: 700; 
   line-height: 40px;
    text-align: center;
-   color: #9C95F5;
+   color: #5280BA;
  }
 
 h4 { 
@@ -55,16 +55,16 @@ h4 {
        font-weight: 700; 
   line-height: 40px;
    text-align: center;
-   color: #261BAB;
+   color: #5280BA;
  }
 /* unvisited link */
 a:link {
-  color: #4A4770;
+  color: #7438F5;
 }
 
 /* visited link */
 a:visited {
-  color: #2952CC;
+  color: #7772AB;
 }
 
 /* mouse over link */
