@@ -1,7 +1,7 @@
 html {
    html, body {
 /* Syntax: radial-gradient(shape at position, start-color, end-color) */
-background: radial-gradient(circle at center, #030C47, #010629);
+background: radial-gradient(circle at center, #020138, #010021);
 margin: 0;
 height: 100vh;
 	background-attachment: fixed; /* Optional: prevents gradient scroll */
